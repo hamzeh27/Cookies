@@ -1,0 +1,10 @@
+body{
+    background-color:rgb(9, 75, 47);
+    color: rgb(252, 208, 89);    
+}
+
+a, a:visited, a:hover{
+    color: cadetblue;    
+    text-decoration: underline;
+    font-size: x-large;
+}
