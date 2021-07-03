@@ -1,0 +1,28 @@
+table , th , td{
+    border: solid rgb(7, 19, 126)192) 1px;
+}
+#result {
+margin-left: 230px;
+
+
+
+
+}
+h1 {
+text-align: center;
+color: rgb(41, 82, 170);
+
+}    
+#cc {
+width: 10%;
+text-align: center;
+margin-left: 650px;
+background-color: rgb(141, 143, 250);
+color: rgb(52, 90, 173);
+
+
+}
+body{
+background-image: url(https://almalomat.com/wp-content/uploads/2019/12/images-14-3-1280x720.jpg);
+
+}
